@@ -13,7 +13,7 @@ The emotion prediction process in our model consists of two main steps:
 1. Using the pre-trained BERTweet model to generate contextualized embeddings for the tweet text.
 2. Utilizing the NRCLex library to extract sentiment features from the tweet text.
 
-These two methods are then compared based on Accuracy, Precision, and Recall. The BERTweet model has shown to perform better based on the test dataset by dair/ai from huggingface.
+These two methods are then compared based on Accuracy, Precision, and Recall. The BERTweet model has shown to perform better based on the test dataset by dair/ai from huggingface. Please refer to 01 file to view the code. 
 
 ## Code for Engagement Prediction
 
