@@ -19,7 +19,7 @@ These two methods are then compared based on Accuracy, Precision, and Recall. Th
 
 The code for engagement prediction is divided into several parts:
 
-1. Defining and training the LSTM, GRU, XGBoost, BERTweet regressor models.
+1. Defining and training the LSTM, GRU, XGBoost, Random Forestm BERTweet regressor models.
 2. Evaluating the model's performance using R2 score.
 
 Please refer to the 02-06 file in this repository for the complete implementation of the engagement prediction process.
